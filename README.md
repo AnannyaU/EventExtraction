@@ -24,17 +24,17 @@ Instructions to run:
 1.   Copy required schema lines in manual_schema_original.txt.
 
 2. 
-i)   Save news article in news_articles.txt.
+Save news article in news_articles.txt.
 
-ii)  Run ParseDocumentForRelgramsApp.java to output news_relgram_input.txt.
+Run ParseDocumentForRelgramsApp.java to output news_relgram_input.txt.
 
-iii) Copy news_relgram_input.txt in relgramtuples-app directory.
+Copy news_relgram_input.txt in relgramtuples-app directory.
 
-iv)  Go to relgramtuples-app directory from terminal and run the following command:
+Go to relgramtuples-app directory from terminal and run the following command:
 
 	 java -cp lib/relgramtuples-1.0.0-SNAPSHOT-jar-with-dependencies.jar edu.washington.cs.knowitall.relgrams.apps.RelgramTuplesApp --wnHome resources/wordnet3.0 --wnTypesFile resources/wordnet-selected-classes.txt --ne7ModelFile resources/english.muc.7class.nodistsim.crf.ser.gz --ne3ModelFile resources/english.all.3class.nodistsim.crf.ser.gz -mpp resources/engmalt.linear-1.7.mco news_relgram_input.txt document_relgram_original.txt
 
-v)   Copy generated document_relgram_original.txt in workspace.	
+Copy generated document_relgram_original.txt in workspace.	
 
 3.   Run ParseDocument.java and ParseSchema.java to parse above files.
 
