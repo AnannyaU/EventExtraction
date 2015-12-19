@@ -1,1 +1,1 @@
-# EventExtraction
+# NLP-project

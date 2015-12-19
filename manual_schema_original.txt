@@ -1,0 +1,173 @@
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign from	A0:[organization]	firm;State Department;House;automaker;United Nations
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign in	A4:  [none]	2004;Wednesday;February;January;Monday
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign on	A5:  [none]	Monday;Thursday
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign after	A8:  [none]	season
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	be replace by	A9:[person]	Hurvin McCormack;Allen E. Murray;John Carroll;McCormack;Paul McGrath
+default	1	Graham Watson;husband;Burt;Sen. Richard Bryan;Thompson	A10:[person]	be member of	A0:[organization]	firm;State Department;House;automaker;United Nations
+default	2	month;week;year;fall	A3:[time_period]	be name as	A0:[person]	player;partner;coach;defendant;magistrate
+default	2	Muhammad;Pflimlin;She;Winborn;Gonzales	A1:[person]	be name on	A8:[time_unit]	July;Thursday;Tuesday;Friday;Monday
+default	2	Muhammad;Pflimlin;She;Winborn;Gonzales	A1:[person]	be name in	A9:  [none]	Friday
+default	2	Muhammad;Pflimlin;She;Winborn;Gonzales	A1:[person]	be name to	A11:  [none]	team;post
+default	2	Muhammad;Pflimlin;She;Winborn;Gonzales	A1:[person]	replace	A12:[person]	Bailey;Robert W. Lund;Terry Stotts;D.J. Williams;Webster
+default	2	Muhammad;Pflimlin;She;Winborn;Gonzales	A1:[person]	be name by	A13:[time_unit;time_period]	1990;year;Tuesday;week;yesterday
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over as	A0:[person]	editor;manager;leader;chairman;coach
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over from	A4:[person]	Rudi Voeller;Tony Blair;David Lyon;Anderson;McGowan
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over in	A5:  [none]	February;August;January;year;July
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over on	A7:[time_unit]	March;June;Tuesday;Nov.;Sunday
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over replace	A8:[person]	Patrick Gournay;Pina Ferlisi;Lucie Salhany;Jeff Trimble;Rainer Gut
+default	8	Michel;Grainger;He;Bergman;Flemming	A1:[person]	take over for	A9:[person]	Welch;manager;Nick Capogna;Bill Russell;reliever Rich Rodriguez
+default	51	Haley;Taylor;Sir Rupert;O'Brien;Fabre	A1:[person]	leave	A0:[time_unit]	1928;1967;1946;1968;1980s
+default	51	Virginia;Jerusalem;site;El Salvador;Mac Daniel Globe Staff SOMERVILLE	A3:[location]	leave in	A0:[time_unit]	1928;1967;1946;1968;1980s
+default	51	Haley;Taylor;Sir Rupert;O'Brien;Fabre	A1:[person]	leave to join	A4:[organization]	White House;Matrix Partners;International Minerals &AMP;Industry Standard;SAC Capital Advisors
+default	51	Haley;Taylor;Sir Rupert;O'Brien;Fabre	A1:[person]	leave as	A6:[leader;person]	editor;manager;director;president;secretary
+default	51	Haley;Taylor;Sir Rupert;O'Brien;Fabre	A1:[person]	leave after	A7:  [none]	season;year
+default	51	Haley;Taylor;Sir Rupert;O'Brien;Fabre	A1:[person]	leave for	A9:[activity]	training;work;job;service;campaigning
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	be replace as	A7:  [none]	head
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	be replace for	A9:[activity]	game
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	step down as	A10:[person]	chairman;executive;president;host;editor
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	be replace after	A11:  [none]	season
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	be replace on	A12:[organization]	team;NBC;squad;committee;Supreme Court
+default	154	Bryan;Walter Decker Scott;Lanner;Holzman;O'Brien	A1:[person]	be replace at	A14:[organization]	RuSport;Asia Global Crossing;JGR;Daytona International Speedway;Fesco
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	start as	A1:[person]	salesman;professor;assistant;entrepreneur;analyst
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	start in	A3:[location;business;organization]	field;industry;place;corps;area
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	start with	A4:[person]	Tonka;Madden;employee;manager;Matt Fish
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	start at	A5:[person]	guard;linebacker;quarterback;tackle;cornerback
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work	A6:  [none]	way
+default	156	she;Milton;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	rise through	A7:  [none]	rank
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work from	A1:[time_unit]	1958;1964;1981;1976;1987
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work until	A3:  [none]	retirement
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work in	A4:[location;organization;structure]	theater;Los Angeles;position;Wake Forest Art Library;Senate
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work at	A6:[structure]	theater;bar;restaurant;factory;prison
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work as	A9:  [none]	director
+default	165	Trowbridge;Muhammad;Pflimlin;Mr. Diehl;Jenrette	A0:[person]	work for	A10:[time_period]	year;while;decade;season;month
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over in	A1:[time_unit]	2000;Wednesday;1985;1979;October
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over as	A3:  [none]	chairman;head;coach;director
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over to	A4:[organization]	University;company;Commerce Department;Cunard Line Ltd.;TSA
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over from	A6:[organization;location]	Tony Blair;Schramm;Markkula;Spindler;Kline
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over at	A7:[organization;location]	Utah;Army;Florida;UNLV;Philips
+default	175	Michel;Grainger;Mr. Diehl;He;Bergman	A0:[person]	take over for	A8:[location]	Greenberg;Stansky;Campanis;Blayau;Walsh
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve as	A1:[executive;leader]	chairman;administrator;chancellor;bishop;senator
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve in	A3:[time_unit;time_period]	year;1991;1990-1995;1974;1985
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve since	A4:[time_unit]	1955;1989;1979;1994;1986
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve for	A5:  [none]	year
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve to	A6:[time_unit]	1962;1935;2004;1976;1954
+default	243	Michel;Grainger;she;Dr. Robert C. Seamans Jr.;Wolf	A0:[person]	serve until	A7:[time_unit]	1994;1962;2004;1960;1945
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over as	A0:[leader]	coach;chairman;leader;president;executive
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over in	A4:  [none]	May;February;August;January;September
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over from	A8:[location]	Tony Blair;Schramm;Markkula;Spindler;Kline
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over after	A9:  [none]	death;year
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over succeed	A11:[person]	John Wathan;Joe Lockhart;Gerald L. Gitner;Santucci;William Clay Ford Jr.
+default	284	Winborn;Hyman R. Faine;Butler;Joachim Milberg;Lutz	A1:[person]	take over for	A13:[location]	Greenberg;Stansky;Campanis;Blayau;Pat Sullivan
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	take	A2:[activity]	teaching;job;course;care;approach
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	be president of	A3:[organization]	Foreign Policy Association;Queens College;Eastman Chemical Products;company;International Rotary Club
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	come to	A4:[organization]	league;Valley;gymnasium;country;Harvard
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	serve as	A5:[person]	president;coach;secretary;director;chairman
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	become	A7:[person]	pilot;president;chairman;speaker;director
+default	336	Marshall;Grainger;Pflimlin;Mr. Diehl;Franklin	A1:[person]	meet	A8:[person]	people;wife;Karr;Betty;Ethel Stanka
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	begin career in	A3:[organization;business;location]	department;Chinatown;Yale;industry;Beaufort
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	begin career at	A4:[location]	Caltech;New York Times;Sarnoff Laboratories;New York Hospital;shipyard
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	begin career as	A5:  [none]	assistant
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	begin career with	A6:[person]	Memphis Showboats;Divine Sarah;Shafer;Maynard Jackson;Kellogg
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	hold	A8:[location]	post;position;Decatur;B.S.;Little Rock
+default	364	Puckett;Pflimlin;statesman;Mr. Diehl;John Alsop	A0:[person]	be name	A10:[person;executive]	president;director;editor;manager;coach
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	be hire as	A0:[person]	receptionist;employee;manager;analyst;boy
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	be hire in	A5:  [none]	January
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	be hire at	A6:[organization]	UCLA;Northwest Airlines;Georgia State University;ValuJet;Glaser Home Care
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	be hire by	A7:[person]	Yankees;parent;Joe Gibbs;Roy Thomson;McIlvaine
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	become	A9:[person;executive]	pilot;chairman;officer;director;general
+default	374	Puckett;Pflimlin;Mr. Diehl;John Alsop;Jenrette	A1:[person]	receive	A10:  [none]	degree
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start at	A0:[person]	White House;Yeshiva;Columbia Records;Fleer;CNN
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start replace	A8:[person]	Joseph;Spencer Romine;Elway;Jorge Fabregas;William Buchanon
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start for	A9:[activity;game]	game;offense
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start in	A11:[time_period;time_unit]	year;1965;1960;Sunday;Saturday
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start on	A12:[time_unit]	Friday;Saturday;Sunday;Thursday;Monday
+default	380	Westbrook;Lieberthal;freshman;Lazar;Gault	A1:[person]	start against	A13:[organization]	Phillies;Boston Red Sox;Los Angeles Angels;Mets;Stanford
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	had be for	A3:  [none]	year;time;month;day
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	had be since	A4:[time_unit]	1970;1985;1980;1953;1974
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	had be at	A5:  [none]	time
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	be in	A7:[location]	field;place;desert;front;Simsbury
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	had be in	A9:  [none]	league;house
+default	383	Morgan;Governor Bush;Nelson;I;Wynalda	A1:[person]	had be with	A10:[organization]	club;company;Coast Guard;department;Red Sox
+default	400	Schwarzschild;Michel;Acevedo;Straus;he	A0:[person]	return as	A1:[person]	correspondent;artist;instructor;editor;coach
+default	400	Schwarzschild;Michel;Acevedo;Straus;he	A0:[person]	return after	A5:  [none]	year
+default	400	Schwarzschild;Michel;Acevedo;Straus;he	A0:[person]	return to	A9:[time_period]	vacation;hospitalization;stage;festival;decade
+default	400	Schwarzschild;Michel;Acevedo;Straus;he	A0:[person]	be survive by	A10:  [none]	wife
+default	400	Schwarzschild;Michel;Acevedo;Straus;he	A0:[person]	return in	A11:[location]	United States Army;Hamburg;Japan;India;Queens
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move to	A0:[location]	mansion;London;Florida;Puerto Rico;Kosovo
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move in	A4:  [none]	year;1980;1998;1970;1993
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move from	A5:  [none]	Los Angeles;Paris
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move to study with	A6:[person]	Jiri Hlinka;Tamara Daykarhanova;Lee Strasberg;Ernest Hutcheson;Olga Samaroff
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move to pursue	A8:  [none]	career
+default	433	Mr. Dutton;Thomas Aldrige Johnson;He;Dornan;she	A1:[person]	move to work as	A9:[person]	adviser;surveyor;delegate;copyist;assistant
+default	503	Trowbridge;Milton;Mr. Dutton;Mr. Diehl;Jenrette	A1:[person]	to work in	A2:[time_unit]	1933;December;1986;February;1941
+default	503	They;he;Lyman;Moss;designer	A5:[person]	go to work for	A0:[organization;person]	GM;government;father;Walt Rostow;House Republican Conference
+default	503	Trowbridge;Milton;Mr. Dutton;Mr. Diehl;Jenrette	A1:[person]	go to work in	A7:[location]	Knoxville;Baltimore;Houghton Mifflin;Sudan;Havana
+default	503	Trowbridge;Milton;Mr. Dutton;Mr. Diehl;Jenrette	A1:[person]	go to work as	A8:[leader]	executive;director;manager;president;administrator
+default	503	Trowbridge;Milton;Mr. Dutton;Mr. Diehl;Jenrette	A1:[person]	to work as	A9:  [none]	manager
+default	503	Trowbridge;Milton;Mr. Dutton;Mr. Diehl;Jenrette	A1:[person]	to work for	A10:  [none]	year
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start by	A5:[person]	Hans G. Knoll;Li Hongzhi;professor;member;Dale Chihuly
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start as	A8:  [none]	president
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start on	A11:[organization]	staff;Landmarks Preservation Advisory Board;Rogers;CBS;PGA Tour
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start against	A12:[organization;location]	Phillies;Carolina;Boston Red Sox;Atlanta;Cleveland Indians
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start for	A13:[organization]	DeMatha Catholic;team;Braves;Atlanta Falcons;Oregon
+default	507	Trowbridge;Mr. Diehl;Jenrette;Slonimsky;Jabir Herbert Muhammad	A0:[person]	start with	A16:[activity]	help;application;show;robbery;service
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint to	A1:[organization]	Task Force;committee;Holocaust Memorial Council;board;U.S. Sentencing Commission
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint on	A5:[organization]	Indian Education Policy;Arts &AMP;Dispute Resolution Ethics Committee;International Religious Freedom;Indian Affairs
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint for	A6:[organization]	Ninth Circuit;Texas Department;Middle District;District;Third Circuit
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint by	A7:  [none]	President Ronald Reagan;Clinton;President Bill Clinton;governor;President Clinton
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint in	A9:  [none]	1997
+default	513	Mr. Dutton;Trowbridge;Grainger;Pflimlin;He	A0:[person]	be appoint as	A11:[person]	director;president;chairman;governor;counsel
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve	A4:  [none]	year;tour
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve from	A5:[time_unit]	June;1967;1975;1954;1953
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve at	A6:[structure;organization]	St;Ministry;Princeton Education Center;Rangeview High School;Baylor College Medicine Rice University
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve during	A8:  [none]	year;war
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve as	A9:[person]	coach;president;director;sergeant;pastor
+default	562	Pflimlin;Rinfret;Gonzales;Patrick;Burke	A1:[person]	serve until	A10:[time_unit]	1994;2004;1960;1945;1964
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign as	A1:[person]	officer;governor;general;leader;announcer
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign under	A3:  [none]	pressure
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign in	A7:  [none]	2004;Wednesday;January;December;August
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign after	A8:[person]	Clinton;Dr. Claud Young;wife;investigator;Senate Foreign Relations Chairman Helms
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign on	A10:  [none]	Friday;Monday
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign from	A12:[activity]	job;practice;service;leadership;role
+default	710	Cox News Service ROUND ROCK;GAINESVILLE;WASHINGTON;Cox News Service MIAMI GARDENS;Sentelle	A2:[location]	resign as	A0:[leader]	pastor;candidate;commissioner;leader;bishop
+default	710	Bryan;Penders;Sampson;Amelio;Lanner	A1:[person]	resign under	A4:  [none]	pressure
+default	710	Bryan;Penders;Sampson;Amelio;Lanner	A1:[person]	resign after	A6:  [none]	season;month
+default	710	Bryan;Penders;Sampson;Amelio;Lanner	A1:[person]	resign in	A8:[time_period]	month;week;fall;night;spring
+default	710	Bryan;Penders;Sampson;Amelio;Lanner	A1:[person]	resign on	A10:  [none]	Friday
+default	710	Bryan;Penders;Sampson;Amelio;Lanner	A1:[person]	resign from	A11:[location]	position;post;Salomon;Cisco;Nectars
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire in	A0:[time_unit]	1947;1949;January;spring;1940
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire by	A4:[location]	Denver;Oklahoma;Tarrow;Schmidt;Delgratia
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire from	A5:[location;organization]	Iowa;Coca-Cola;suburb;firm;Black &AMP
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire as	A6:  [none]	assistant;director;president
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire after	A8:[time_period]	month;season;year;stint
+default	712	Mr. Dutton;Michel;Trowbridge;Grainger;Muhammad	A1:[person]	be hire at	A9:  [none]	salary
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign as	A4:  [none]	secretary;governor;director;executive;minister
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign after	A6:[activity]	career;raid;role;charge;kidnapping
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign from	A8:[person]	Christie;Harken;director;Cousteau Society;Gingrich
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign to take	A9:  [none]	job
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign amid	A10:[activity]	charge
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign in	A11:[effect]	wake;aftermath
+default	738	Marshall;Pflimlin;Rumsfeld;John Anthony Gibson;Murphy	A1:[person]	be hire as	A4:  [none]	consultant;coach
+default	738	Marshall;Pflimlin;Rumsfeld;John Anthony Gibson;Murphy	A1:[person]	be hire in	A6:  [none]	May;year;1997
+default	738	Marshall;Pflimlin;Rumsfeld;John Anthony Gibson;Murphy	A1:[person]	be hire on	A7:[time_unit]	Nov.;Aug.;April;Sunday;July
+default	738	Marshall;Pflimlin;Rumsfeld;John Anthony Gibson;Murphy	A1:[person]	be hire after	A8:  [none]	year
+default	738	Marshall;Pflimlin;Rumsfeld;John Anthony Gibson;Murphy	A1:[person]	be hire for	A9:[activity]	show;job;help;task;work
+default	738	coach;director;chief;executive;trainer	A10:[leader]	be hire by	A0:[organization]	Yankees;Colby College;Census Bureau;McGill University;Gillespie
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	be promote to	A0:[person;leader]	president;professor;bishop;commander;chief
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	be promote from	A5:  [none]	president;director
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	be promote in	A6:[activity]	charge
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	be survive by	A8:  [none]	wife
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	succeed	A9:[person]	Paul Paray;father;Simeon Golar;he;Joe Torre
+default	787	Mr. Dutton;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	be vice president at	A10:[organization]	organization;New York Times;Viacom;corporation;Universal McCann
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work to	A0:[time_unit]	1946;1953;1986;1990;1965
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work from	A2:[time_unit]	1981;1962;1979;1949;1983
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work at	A4:  [none]	plant
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work in	A7:  [none]	office
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work with	A8:[organization;person]	Armand Hammer;Tom Stoppard;officer;Bucharest Philharmonic Orchestra;they
+default	827	Marshall;Trowbridge;Pflimlin;Mr. Diehl;Jenrette	A1:[person]	work for	A10:[time_period]	year;while;decade;season;month
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be appoint to	A5:  [none]	commission;board;court;job
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be appoint after	A8:[person]	Ahmed Zaki Yamani;Shuttlesworth;David A. Kay;Paul Volcker;Chief Executive Heinz Schimmelbusch
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be appoint as	A10:  [none]	director
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be appoint in	A11:[location]	Passaic County;middle;Seoul;Miami;Stockholm
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be reappoint by	A12:[person]	President George Bush;Gov. Mario Cuomo;Mario Cuomo;President Bill Clinton;Governor Deval Patrick
+default	906	Fisher;Campanelli;mayor;Knudsen;Simpson	A2:[person]	be survive by	A13:  [none]	wife

@@ -1,0 +1,20 @@
+An 11-year-old California boy	A1:[person]	don	[]	a cap and gown
+An 11-year-old California boy	A1:[person]	don cap gown on Wednesday to receive	[]	a college degree
+An 11-year-old California boy	A1:[person]	don gown to receive	[]	a college degree
+Tanishq Abraham	A1:[person]	be	[person]	the youngest person
+Tanishq Abraham	A1:[person]	be person to	[person]	graduate
+he	A1:[person]	be	[person]	the youngest person
+he	A1:[person]	be person to	[person]	graduate
+he	A1:[person]	be person from	[organization]	the school
+American River College spokesman Scott Crow	A1:[person]	tell	[location]	NBC Bay Area
+American River College spokesman Scott Crow	A1:[person]	tell NBC Bay Area on	[time_unit]	Thursday
+Abraham	A1:[person]	tell	[organization]	KCRA
+Abraham	A1:[person]	tell KCRA in	[organization]	the milestone was n't `` much of a big thing for me . ''
+He	A1:[person]	graduate	[organization]	high school
+He	A1:[person]	graduate school in	[time_unit]	last June
+He	A1:[person]	graduate school at	[time_unit]	age 10
+He	A1:[person]	receive	[time_unit]	a congratulatory message
+He	A1:[person]	receive message from	[person]	President Barack Obama and several California officials
+Abraham	A1:[person]	graduate with	[person]	three associate degrees
+The degrees	A1:[person]	be in	[person]	math and physical science
+Abraham	A1:[person]	wear	[person]	his favorite `` Toy Story '' quote

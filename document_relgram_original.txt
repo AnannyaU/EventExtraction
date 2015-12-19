@@ -1,0 +1,81 @@
+DOCID-SENTID	Tuple Part	Original	Head	Type
+0-0	ARG1	An 11-year-old California boy	boy	person:WordNet
+	REL	donned	don
+	ARG2	a cap and gown	cap	
+
+0-0	ARG1	An 11-year-old California boy	boy	person:WordNet
+	REL	donned a cap and gown on Wednesday to receive	don cap gown on Wednesday to receive
+	ARG2	a college degree	degree	
+
+0-0	ARG1	An 11-year-old California boy	boy	person:WordNet
+	REL	donned gown to receive	don gown to receive
+	ARG2	a college degree	degree	
+
+0-0	ARG1	Tanishq Abraham	Tanishq Abraham	person:Stanford
+	REL	is	be
+	ARG2	the youngest person	person	person:WordNet
+
+0-0	ARG1	Tanishq Abraham	Tanishq Abraham	person:Stanford
+	REL	is the youngest person to	be person to
+	ARG2	graduate	graduate	person:WordNet
+
+0-0	ARG1	he	he	person:Pronoun
+	REL	may be	be
+	ARG2	the youngest person	person	person:WordNet
+
+0-0	ARG1	he	he	person:Pronoun
+	REL	may be the youngest person to	be person to
+	ARG2	graduate	graduate	person:WordNet
+
+0-0	ARG1	he	he	person:Pronoun
+	REL	may be the youngest person from	be person from
+	ARG2	the school	school	organization:WordNet
+
+0-0	ARG1	American River College spokesman Scott Crow	Scott Crow	person:Stanford
+	REL	told	tell
+	ARG2	NBC Bay Area	NBC Bay Area	location:Stanford,organization:Stanford
+
+0-0	ARG1	American River College spokesman Scott Crow	Scott Crow	person:Stanford
+	REL	told NBC Bay Area on	tell NBC Bay Area on
+	ARG2	Thursday	Thursday	time_unit:Stanford,time_unit:Day
+
+0-0	ARG1	Abraham	Abraham	person:Stanford
+	REL	told	tell
+	ARG2	KCRA	KCRA	organization:Stanford
+
+0-0	ARG1	Abraham	Abraham	person:Stanford
+	REL	told KCRA in	tell KCRA in
+	ARG2	the milestone was n't `` much of a big thing for me . ''	milestone	
+
+0-0	ARG1	He	He	person:Pronoun
+	REL	graduated	graduate
+	ARG2	high school	school	organization:WordNet
+
+0-0	ARG1	He	He	person:Pronoun
+	REL	graduated high school in	graduate school in
+	ARG2	last June	June	time_unit:Stanford
+
+0-0	ARG1	He	He	person:Pronoun
+	REL	graduated high school at	graduate school at
+	ARG2	age 10	age	
+
+0-0	ARG1	He	He	person:Pronoun
+	REL	even received	receive
+	ARG2	a congratulatory message	message	
+
+0-0	ARG1	He	He	person:Pronoun
+	REL	even received a congratulatory message from	receive message from
+	ARG2	President Barack Obama and several California officials	President Barack Obama	person:Stanford
+
+0-0	ARG1	Abraham	Abraham	person:Stanford
+	REL	graduated with	graduate with
+	ARG2	three associate degrees	degree	
+
+0-0	ARG1	The degrees	degree	
+	REL	are in	be in
+	ARG2	math and physical science	math	
+
+0-0	ARG1	Abraham	Abraham	person:Stanford
+	REL	wore	wear
+	ARG2	his favorite `` Toy Story '' quote	quote	
+
